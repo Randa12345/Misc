@@ -1,0 +1,2 @@
+obj\x86\Debug\Hello.g.xaml
+obj\x86\Debug\WFConsole_Hello_BeforeInitializeComponentHelper.txt
